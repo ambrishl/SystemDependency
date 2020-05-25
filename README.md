@@ -1,5 +1,6 @@
 # SystemDependency
- Install visual studio
- Opoen the solution file .sln
- Run 
- Start feeding your inputs
+ 1. Install visual studio
+ 
+ 2. Open the solution file .sln
+ 3. Run the project 
+ 4. Start feeding your inputs
